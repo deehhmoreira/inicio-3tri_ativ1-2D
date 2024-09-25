@@ -10,7 +10,7 @@ h2 {text-align: center;
 }
 h3 {text-align: center;
     color: black;
-    border-style: dotted;
+    border-right-style: initial;
     border-color: rgb(221, 76, 76);
 }
 #ima1 {margin-left: 40%;
