@@ -2,10 +2,8 @@ body { background-color: rgb(245, 145, 161);
 }
 h1 {text-align: center;
     color: black;
-    border-bottom: 20%;
-    border-color: rgb(110, 16, 35);
-    margin-left: 20%;
-}
+    border-style: dotted;
+    
 h2 {text-align: center;
     color: rgb(102, 26, 92);
 }
