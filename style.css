@@ -16,6 +16,7 @@ h3 {text-align: center;
     border-style: double;
 }
 #ima2{margin-left: 40%;
+    border-style: outset;
 }
 h4 {text-align: center;
     border-style: groove;
