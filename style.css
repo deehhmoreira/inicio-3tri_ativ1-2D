@@ -17,15 +17,17 @@ h3 {text-align: center;
     border-style: double;
 }
 #ima2{margin-left: 40%;
-    border-style: outset;
 }
-h4 {text-align: center;
-    border-style: groove;
-  color: rgb(8, 8, 8);
+h4 {text-align: center 40%;
+border-style: outset;
 }
-header {color: aquamarine;
+header {background-color: brown;
+    border-right: 20%;
 }
 main {color: beige;
+    border-color: black;
+    border-style: groove;
 }
 footer {color: blue;
+    text-align: justify;
 }
